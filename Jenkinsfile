@@ -5,7 +5,7 @@ pipeline {
             steps {
                 sh 'go version'
 		sh 'echo 123'
-		sh 'echo 456'
+		sh 'echo 4567'
             }
         }
     }
